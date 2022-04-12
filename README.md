@@ -1,2 +1,7 @@
 # mall
 mall商城管理系统
+技术栈：SpringBoot+MyBatis搭建骨架，数据库使用Mysql，Redis实现缓存功能，SwaggerUI实现在线API文档功能
+
+这个项目是学习参考github上的优秀开源macrozheng的tinymall电商系统，累积经验的同时，能让自己学习到更多知识和技术。
+当然在这个项目的搭建过程中，还是出现了不少的bug，后来通过一点点的修改，逐渐解决
+目前这个项目并不太完整，后续会渐渐跟进学习完善项目
